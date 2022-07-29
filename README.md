@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Ted Talk Analysis.**
 
-- 🌱 I’m currently learning **Data Analysis, Data Visualization & Machine Learning.**
+- 🌱 I’m currently learning **Django, Data Analysis, Data Visualization & Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash7raut](https://github.com/yash7raut)
 
