@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yash Raut</h1>
-<h3 align="center">A passionate Data enthusiast from India.</h3>
+<h3 align="center">A passionate software developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Ted Talk Analysis.**
+- 🔭 I’m currently working on the [**Oras Project**](https://oras.land/)
 
-- 🌱 I’m currently learning **Django, Data Analysis, Data Visualization & Machine Learning.**
+- 🌱 I’m currently learning **Django, Javascript,Postgres, Golang, Devops Practices-Docker, Kubernetes, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash7raut](https://github.com/yash7raut)
 
-- 💬 Ask me about **Data Analytics, Power BI, Tableau.**
+- 💬 Ask me about **Containers & CNCF projects**
 
 - 📫 How to reach me **yash7raut@gmail.com**
 
