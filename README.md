@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on the [**Oras Project**](https://oras.land/)
+- 🔭 I’m currently working on improving and enhancing my skills.
 
-- 🌱 I’m currently learning **Django, Javascript,Postgres, Golang, Devops Practices-Docker, Kubernetes, etc.**
+- 🌱 I’m currently learning **Golang, Docker, Kubernetes and exploring the CNCF projects **
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash7raut](https://github.com/yash7raut)
 
