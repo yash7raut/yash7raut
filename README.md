@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on improving and enhancing my skills.
 
-- 🌱 I’m currently learning **Golang, Docker, Kubernetes and exploring the CNCF projects **
+- 🌱 I’m currently learning **Golang, Docker, Kubernetes and exploring the CNCF projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash7raut](https://github.com/yash7raut)
 
